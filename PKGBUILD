@@ -1,11 +1,11 @@
 # Maintainer: Perkelo <alessandro [dot] scala [eight] [at] gmail [dot] com>
 
 pkgname="vim-colors-xcode-git"
-pkgver=r130.4649024
+pkgver=r131.0ab58f6
 pkgrel=1
 pkgdesc="XCode color theme for vim"
 arch=("any")
-url="https://github.com/Perkelo/vim-colors-xcode"
+url="https://github.com/lunacookies/vim-colors-xcode"
 license=('ISC')
 depends=('vim')
 makedepends=('git')
